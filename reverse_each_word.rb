@@ -6,7 +6,7 @@ result = new_array.collect do |words|
    words.reverse
   
   end
-
+result.join
 end
   
   
